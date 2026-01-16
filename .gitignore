@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# SQLite data (opcional)
+data/db/*.db
+
+# VS Code
+.vscode/
+
+# Outputs
+*.csv
+*.xlsx
+*.parquet
